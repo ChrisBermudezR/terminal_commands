@@ -1,0 +1,16 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages were automatically installed and are no longer required:
+  nsight-compute-2025.3.1 nsight-systems-2025.3.2
+Use 'sudo apt autoremove' to remove them.
+Get more security updates through Ubuntu Pro with 'esm-apps' enabled:
+  libmagickcore-6.q16-7t64 liburiparser1 imagemagick
+  libmagickcore-6.q16-7-extra libgraphicsmagick++-q16-12t64 imagemagick-6.q16
+  imagemagick-6-common libgraphicsmagick-q16-3t64 liburiparser-dev
+  libmagickwand-6.q16-7t64
+Learn more about Ubuntu Pro at https://ubuntu.com/pro
+The following packages have been kept back:
+  cuda nvidia-open
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
